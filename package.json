@@ -1,0 +1,20 @@
+{
+  "name": "react-spinner",
+  "version": "1.0.0",
+  "description": "CSS For react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramadhan002/react-spinner.git"
+  },
+  "keywords": [],
+  "author": "Fikri Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramadhan002/react-spinner/issues"
+  },
+  "homepage": "https://github.com/ramadhan002/react-spinner#readme"
+}
