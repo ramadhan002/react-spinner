@@ -18,5 +18,12 @@
 
 2. Lint
 
+```
+  editor config
+  npm install eslint --save-dev
+  npm install prettier-eslint --save-dev
+  npm i -D prettier-eslint-cli
+```
+edit package.json tambahkan script lint && lint:fix
 
 
